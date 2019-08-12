@@ -1,0 +1,41 @@
+{
+  "songList" :
+  [
+    {
+      "id": 694646,
+      "name" : "Mr Lonely",
+      "songtype": 13,
+      "author": "陈奕迅"
+    },
+    {
+      "id": 126263,
+      "name" : "暧昧",
+      "songtype": 13,
+      "author": "杨丞琳"
+    },
+    {
+      "id": 359371,
+      "name" : "枯木",
+      "songtype": 13,
+      "author": "程璧"
+    },
+    {
+      "id": 359375,
+      "name" : "枯木",
+      "songtype": 13,
+      "author": "程璧"
+    },
+    {
+      "id": 359372,
+      "name" : "枯木",
+      "songtype": 13,
+      "author": "程璧"
+    },
+    {
+      "id": 359373,
+      "name" : "枯木",
+      "songtype": 13,
+      "author": "程璧"
+    }
+  ]
+}
