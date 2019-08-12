@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-sty1
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue_music
+>>>>>>> 2abf96c4420ff42dc29462f19272ff3721a0f7ea
